@@ -2,7 +2,10 @@
 
 it's a simple personal dashboard, tht i made to check my daily activity and routine.
 
-https://red0x-106.github.io/Personal-Dashboard/
+https://red0x-106.github.io/persoanl-dashboardd-/
+
+<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/7edc5aca-7ff1-44f3-9be2-b78a684e737e" />
+
 
 ## what it has
 
@@ -18,7 +21,8 @@ https://red0x-106.github.io/Personal-Dashboard/
 
 The different sections are meant to work together as one dashboard. I can use the task section for things I need to finish, keep notes in the notes section, track study or coding time, and see my project progress and current goal from the same page.
 
-<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/0c0c028b-0e16-4084-8b9f-d564bd34b945" />
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/a3a0a882-3080-47c2-ae4f-a57e13a176c4" />
+
 
 ## how it works
 
