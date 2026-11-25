@@ -24,7 +24,6 @@ updateClock();
 setInterval(updateClock, 1000);
 
 
-/* TASKS */
 
 const tasks = [
     document.getElementById("task1"),
